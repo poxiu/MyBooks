@@ -3,7 +3,7 @@ My Books es una Pagina Web que usa la "Google Books API" para arrojarte resultad
 
 ## Qué tipo de información puedo encontrar?
 
-1. título del Libro
+1. Título del Libro
 2. Subtitulo
 3. Categoria
 4. Autores
